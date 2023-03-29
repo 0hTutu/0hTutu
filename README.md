@@ -20,7 +20,6 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-
     <a href = "">
       <img width="25" src="linkedin.svg">
     </a>
