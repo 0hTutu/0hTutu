@@ -20,9 +20,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: ">
-      <img width="30" src="gmail.svg">
-    </a>
+
     <a href = "">
       <img width="25" src="linkedin.svg">
     </a>
