@@ -18,14 +18,4 @@
  </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: arthurmullercavalheiro@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/arthur-müller-24ab96263/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/ohh.tutu/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
+
