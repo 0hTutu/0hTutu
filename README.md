@@ -1,5 +1,6 @@
 ## Fala tu meu nobre!
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header"/>
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=0hTutu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -19,7 +20,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">minhas redes sociais</h1>
     <a href = "">
       <img width="25" src="linkedin.svg">
     </a>
@@ -27,3 +28,4 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
