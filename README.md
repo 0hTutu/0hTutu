@@ -24,10 +24,9 @@
   
   <h1 align="center">minhas redes sociais</h1>
     <a href = "https://www.linkedin.com/in/arthur-müller-24ab96263/">
-      <img width="25" src="linkedin.svg">
+      <img width="35" height="30"src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/ohh.tutu/">
-      <img width="25" src="instagram.png">
-    </a>
+    
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+
