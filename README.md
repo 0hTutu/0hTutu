@@ -1,11 +1,11 @@
-  <img align="left" height="100" alt="snorlax" src="code.gif">
+<img align="left" height="100" alt="snorlax" src="code.gif">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&color=58A6FF&vCenter=true&width=435&lines=-Fala+tu!+Meu+nobre!;-Seja+bem+vindo+ao+meu+github!)](https://git.io/typing-svg)
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0hTutu&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=0hTutu&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hTutu&layout=compact&langs_count=16&theme=github_dark_dimmed&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0hTutu&layout=compact&langs_count=16&theme=github_dark_dimmed&bg_color=0d1117&hide_border=true"/>
 </div>
 
 <br>
