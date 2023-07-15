@@ -19,19 +19,13 @@
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="ts-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" alt="node-icon" src="https://devicons.railway.app/i/nodejs.svg">
   <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   </div>
 </div>
   
   <div align="center">
-  
-  ### Frameworks & Libs
- 
-  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="tailwind-icon" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg">
-  <img align="center" height="30" width="40" alt="node-icon" src="https://devicons.railway.app/i/nodejs.svg">
   
 </div>
 
