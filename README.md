@@ -1,6 +1,6 @@
 <img align="left" height="100" alt="snorlax" src="code.gif">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&color=58A6FF&vCenter=true&width=435&lines=-Fala+tu!+Meu+nobre!;-Seja+bem+vindo+ao+meu+github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=600&color=58A6FF&vCenter=true&width=435&lines=-Fala+tu!+Meu+nobre!;-Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header"/>
 
