@@ -6,7 +6,7 @@
 </br>
 
 ---
-### Minhas tecnologias:
+### Technologies with which I work:
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,gradle,spring,maven,postgres,idea,vscode,github,git,&perline=3)](https://skillicons.dev)
