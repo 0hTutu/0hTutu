@@ -1,14 +1,43 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=0hTutu&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<div align="center">
+  <img src="" alt="pokemon">
+</div>
 
-### I am Arthur and have been studying since 2022 to become a backend developer. I am one of the 50 selected from the programming class of Geração Caldeira '23, where there were over 5000 candidates and 9 months of coursework.
-</br>
-<img src="https://img.shields.io/static/v1?label=Overview&message=0hTutu&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
-</br>
+# Arthur Müller
 
----
-### Technologies with which I work:
-</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devtutu-blue?logo=linkedin)](https://www.linkedin.com/in/devtutu)
 
-[![My Skills](https://skillicons.dev/icons?i=java,gradle,spring,maven,postgres,idea,vscode,github,git,&perline=3)](https://skillicons.dev)
+## 👋 Olá!
 
-<hr>
+
+I'm a young developer fascinated by technology, focused on creating innovative solutions. With a solid background in Java programming and a curious mind, I'm always seeking new challenges to continuously expand my knowledge.
+
+## 🚀 Technical skills
+
+- Programming Languages: 
+
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+-  Frameworks and Libraries: 
+
+    [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+- Database: 
+
+    [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+- Tools and Technologies: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse,idea)](https://skillicons.dev)
+- Web Development:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+## 🏆 Highlighted projects
+
+- [GC Group Project - Zelda Plataform](https://github.com/[seu-usuario]/projeto1): The  Java software was structured into three distinct microservices to provide Zelda franchise fans with an engaging and interactive platform, bringing together detailed information and enabling social interaction among users.
+- [Linktree-like](https://github.com/0hTutu/Linktree): A linktree-like project developed by me using web tools such as HTML, CSS and JavaScript.
+- [GC Group Project - Review Project](https://github.com/eduardozamit/Projeto-Revisao-AvioesDoForro): This repository aims to showcase our learning and development in the Java language, as well as the best practices of the language that we have learned in the classroom.
+
+
+
+
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
+
+![0hTutu GitHub stats](https://github-readme-stats.vercel.app/api?username=0hTutu&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300")
