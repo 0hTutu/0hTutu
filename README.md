@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="" alt="pokemon">
-</div>
 
-# Arthur Müller
+# Arthur "" Müller 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devtutu-blue?logo=linkedin)](https://www.linkedin.com/in/devtutu)
 
@@ -10,6 +7,11 @@
 
 
 I'm a young developer fascinated by technology, focused on creating innovative solutions. With a solid background in Java programming and a curious mind, I'm always seeking new challenges to continuously expand my knowledge.
+
+<div align="center">
+  <img src="code.gif" alt="gif">
+</div>
+
 
 ## 🚀 Technical skills
 
@@ -28,6 +30,11 @@ I'm a young developer fascinated by technology, focused on creating innovative s
 - Web Development:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+  <div align="left">
+  <img src="code.gif" alt="gif">
+</div>
+
 
 ## 🏆 Highlighted projects
 
