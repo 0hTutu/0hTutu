@@ -17,19 +17,19 @@ I'm a young developer fascinated by technology, focused on creating innovative s
 
 - Programming Languages: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,javascript&theme=dark)](https://skillicons.dev)
 -  Frameworks and Libraries: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring&theme=dark)](https://skillicons.dev)
 - Database: 
 
-    [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark)](https://skillicons.dev)
 - Tools and Technologies: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse,idea)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode,maven,gradle,eclipse,idea&theme=dark)](https://skillicons.dev)
 - Web Development:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
 
 ## 🏆 Highlighted projects
