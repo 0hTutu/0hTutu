@@ -38,9 +38,4 @@ I'm a young developer fascinated by technology, focused on creating innovative s
 - [Linktree-like](https://github.com/0hTutu/Linktree): A linktree-like project developed by me using web tools such as HTML, CSS and JavaScript.
 - [GC Group Project - Review Project](https://github.com/eduardozamit/Projeto-Revisao-AvioesDoForro): This repository aims to showcase our learning and development in the Java language, as well as the best practices of the language that we have learned in the classroom.
 
-
-
-
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
-
 ![0hTutu GitHub stats](https://github-readme-stats.vercel.app/api?username=0hTutu&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300")
