@@ -35,7 +35,6 @@ I'm a young developer fascinated by technology, focused on creating innovative s
 ## 🏆 Highlighted projects
 
 - [GC Group Project - Zelda Plataform](https://github.com/[seu-usuario]/projeto1): The  Java software was structured into three distinct microservices to provide Zelda franchise fans with an engaging and interactive platform, bringing together detailed information and enabling social interaction among users.
-- [Linktree-like](https://github.com/0hTutu/Linktree): A linktree-like project developed by me using web tools such as HTML, CSS and JavaScript.
 - [GC Group Project - Review Project](https://github.com/eduardozamit/Projeto-Revisao-AvioesDoForro): This repository aims to showcase our learning and development in the Java language, as well as the best practices of the language that we have learned in the classroom.
 
 ![0hTutu GitHub stats](https://github-readme-stats.vercel.app/api?username=0hTutu&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300")
